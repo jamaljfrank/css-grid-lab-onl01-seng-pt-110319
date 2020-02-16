@@ -18,8 +18,5 @@ body {
 }
 
 .bigItem {
-  grid-row-start: 2;
-  grid-row-end: 4;
-  grid-column-start: 2;
-  grid-column-end: 4;
+  grid-area: footer-start / 1 / footer-end / 4
 }
